@@ -1,0 +1,10 @@
+{
+    "githubPullRequests.remotes": [
+        "git init",
+        "git add README.md",
+        "git commit -m \"first commit\"",
+        "git branch -M VelosoBil/-dev-tty",
+        "git remote add origin https://github.com/VelosoBil/RatooFront.git",
+        "it push -u origin VelosoBil/-dev-tty"
+    ]
+}
